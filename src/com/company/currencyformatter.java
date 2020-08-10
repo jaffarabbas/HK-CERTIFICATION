@@ -1,16 +1,3 @@
-
-// class currencyformatter{
-//  static void printCurrency(Locale locale){  
-//  double dbl=10500.3245;  
-//  NumberFormat formatter=NumberFormat.getCurrencyInstance(locale);  
-//  String currency=formatter.format(dbl);  
-//  System.out.println(currency);  
-// }  
-// 	public static void main(String[] args) {
-// 		currencyformatter.printCurrency(Locale.UK);
-// 	}
-// }
-
 import java.io.*;
 import java.util.*;
 import java.text.*;
